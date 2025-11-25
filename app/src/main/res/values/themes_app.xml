@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.NotepadCalc" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here if needed -->
+    </style>
+</resources>
